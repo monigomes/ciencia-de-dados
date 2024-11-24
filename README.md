@@ -1,2 +1,2 @@
-# ciencia-de-dados
-Projetos e exercícios de Ciência de Dados.
+# ciencias-de-dados
+Projetos e exercícios de Ciências de Dados.
